@@ -25,4 +25,4 @@ Txt files NOT ready, only the exctract text without regex and crop.
 
 # Recommendations 
 1. Each PDF can have many topics, depending on the debate or law that is being discussed, the text needs to be divided according to the law or debate to obtain better results.
-
+2. Add more some words in the black list for avoid unimportant words. 
